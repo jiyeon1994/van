@@ -3,7 +3,7 @@
 print("hello world")
 print("tell your world")
 <<<<<<< HEAD
-print"tell cat world")
+print("tell cat world")
 print("tell mango world")
 =======
 >>>>>>> hotfix

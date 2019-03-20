@@ -1,9 +1,9 @@
 print("hello world")
 print("tell your world")
 <<<<<<< HEAD
-pring("tell cat world")
+print("tell cat world")
+print("tell dog world")
 =======
-print("tell her world")
 
 >>>>>>> hotfix
 
